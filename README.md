@@ -3,6 +3,8 @@ calculette
 
 Le Kata "String calculator" (http://osherove.com/tdd-kata-1/) en JavaScript avec Jasmine.
 
+Ouvrez le fichier SpecRunner.html dans votre navigateur préféré et éditez le fichier spec/calculatrice.js pour commencer à ajouter des tests. Le navigateur Web rafraîchit les tests toutes les 3 secondes.
+
 Voici une feuille de route (non restrictive) pour ce Kata :
 
 Créer une simple calculatrice avec une méthode :
