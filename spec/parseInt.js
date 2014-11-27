@@ -12,12 +12,12 @@ Description("la fonction Javascript parseInt", function() {
 
   elle("convertit une chaîne de caractères vide en un NaN", function() {
     var result = parseInt("");
-    expect(result).toBeNaN(1);
+    expect(result).toBeNaN();
   });
 
   elle("convertit une chaîne de caractères commençant par un caractère non numérique en un NaN", function() {
     var result = parseInt("a1");
-    expect(result).toBeNaN(1);
+    expect(result).toBeNaN();
   });
 
 });
