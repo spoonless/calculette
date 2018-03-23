@@ -30,5 +30,5 @@ int add(String numbers)
 
 8. Le délimiteur peut avoir n'importe quelle longueur. Par exemple : "//:::\n1:::2:::3" vaut 6
 
-9. Autoriser plusieurs délimiteurs : "//[*][%]\n1*2%3" vaut 6
+9. Autoriser plusieurs délimiteurs : "//[`*`][%]\n1`*`2%3" vaut 6
 
